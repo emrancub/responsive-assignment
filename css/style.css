@@ -1,0 +1,34 @@
+.nav-img img{
+    width: 250px;
+}
+.control-header-img img{
+    width: 100%;
+    /* height: 400px; */
+}
+.header-first-text{
+    color: #FABE4C;
+    font-size: 60px;
+}
+.header-second-text{
+    color: #363958;
+    font-size: 60px;
+}
+.main-section-img img{
+    width: 100%;
+}
+.jacket img{
+    height: 350px;
+    width: 300px;
+    justify-content: center;
+    /* align-content: center; */
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #F1F1F1;
+    padding: 15px;
+}
+.top-contaent-center{
+    margin-top: 5em;
+}
+header{
+    background-color: #FFFBF0;
+}
