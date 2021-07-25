@@ -25,10 +25,20 @@
     margin-right: auto;
     background-color: #F1F1F1;
     padding: 15px;
+    /* padding-top: 10px; */
 }
 .top-contaent-center{
     margin-top: 5em;
 }
 header{
     background-color: #FFFBF0;
+}
+.card-jacket{
+    border: 0;
+    padding-top: 40px;
+}
+.card-footer{
+    border-top: 0;
+    background-color: white;
+    margin-bottom: 10px;
 }
